@@ -38,7 +38,7 @@
 ## ⚙️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/chat-application.git
+git clone https://github.com/im-lavan/Secure-client-and-server-chat-room.git
 cd chat-application
 ```
 
