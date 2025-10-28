@@ -39,7 +39,7 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/im-lavan/Secure-client-and-server-chat-room.git
-cd chat-application
+cd Secure-client-and-server-chat-room
 ```
 
 2. Run the database setup:
